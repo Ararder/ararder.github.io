@@ -1,0 +1,8 @@
+---
+title: "Welcome To My Blog"
+author: "Arvid Harder"
+date: "2022-08-03"
+categories: [news]
+---
+
+My first blog post with Quarto! Here i plan to write about my interests, spanning R for Data Science, genetics, epidemiology, weightlifting among others!
