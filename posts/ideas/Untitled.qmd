@@ -1,0 +1,13 @@
+---
+title: "Ideas for blogs"
+editor: visual
+draft: true
+---
+
+Ideas for future blogposts:
+
+1.  Actionable insights from sequencing your own genome is surprisingly hard
+2.  Review a paper (Na Cai)
+3.  How to think about phenotypic complexity
+
+Genetics is a shitfest. I've spent probably 10 hours googling how to figure out how to get my hapmap3 SNPs, and it turns out that the fucking reference genome is diploid

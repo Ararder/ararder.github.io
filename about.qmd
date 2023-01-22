@@ -1,0 +1,17 @@
+---
+title: "About me"
+image: profile.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ararder
+    - icon: github
+      text: Github
+      href: https://github.com/Ararder
+      
+    # (additional links excluded for brevity)
+---
+
+Hi! I'm a PhD student in Psychiatic genomics at [KI Psychiatric Genomics Institute](https://ki.se/en/meb/ki-psychiatric-genomics-institute). I'm interested in genetics generally, and psychiatric genetics and neuroscience more specifically.
